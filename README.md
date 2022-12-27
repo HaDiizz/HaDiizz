@@ -22,6 +22,6 @@
     ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  - ✔️ Personal Projects :
- [Social Network](https://next-sc.netlify.app), [PSU Ecommerce](https://next-ecommerce-psu-test-for-education.netlify.app), [Crypto Tracker](https://coinbase-blockchain.netlify.app).
+ [Social Network](https://next-sc.netlify.app), [PSU Ecommerce](https://next-psu-ecommerce.netlify.app), [Crypto Tracker](https://coinbase-blockchain.netlify.app).
  
 ![](https://komarev.com/ghpvc/?username=HaDiizze&color=blueviolet)
