@@ -24,4 +24,7 @@
  - ✔️ Personal Projects :
  [Social Network](https://next-sc.netlify.app), [PSU Ecommerce](https://next-psu-ecommerce.netlify.app), [Crypto Tracker](https://coinbase-blockchain.netlify.app).
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaDiizz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ![](https://komarev.com/ghpvc/?username=HaDiizze&color=blueviolet)
+
