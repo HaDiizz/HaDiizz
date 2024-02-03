@@ -42,13 +42,13 @@
     ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
     ![image](https://img.shields.io/badge/NextUI-100000?style=flat&logo=nextui&logoColor=FFFFFF&labelColor=000000&color=000000)
     ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+    ![image](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
     ![image](https://img.shields.io/badge/Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white)
     ![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat&logo=Apollo%20GraphQL&logoColor=white)
-    ![image](https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white)
-    ![image](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-    ![image](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
     ![image](https://img.shields.io/badge/Socket.io-010101?&style=flat&logo=Socket.io&logoColor=white)
+    ![image](https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white)
     ![image](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+    ![image](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
     ![image](https://img.shields.io/badge/daisyUI-1ad1a5?style=flat&logo=daisyui&logoColor=white)
  
   - Cloud
