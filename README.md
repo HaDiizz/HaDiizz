@@ -19,6 +19,7 @@
     ![image](https://img.shields.io/badge/Looker_Studio-100000?style=flat&logo=Looker&logoColor=0033FF&labelColor=FFFFFF&color=FFFFFF)
     ![image](https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white)
     ![image](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+    ![image](https://img.shields.io/badge/Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white)
 
   - Programming
 
@@ -51,7 +52,7 @@
     ![image](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
     ![image](https://img.shields.io/badge/daisyUI-1ad1a5?style=flat&logo=daisyui&logoColor=white)
  
-  - Cloud
+  - Cloud/Hosting
     
     ![image](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
     ![image](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
