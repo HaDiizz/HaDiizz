@@ -61,8 +61,7 @@
  - ✔️ Personal Projects :
    
    - 💬 [Social Network](https://next-sc.netlify.app)
-   - 🛒 [PSU Ecommerce](https://next-psu-ecommerce.netlify.app)
-   - 🪙 [Crypto Tracker](https://coinbase-blockchain.netlify.app)
+   - 🛒 [PSU E-commerce](https://next-psu-ecommerce.netlify.app)
    - 📋 [Calibor](https://calibor.netlify.app)
    - 🔍 [PSU iFound](https://psu-ifound.vercel.app)
 
