@@ -64,6 +64,7 @@
    - 🛒 [PSU E-commerce](https://next-psu-ecommerce.netlify.app)
    - 📋 [Calibor](https://calibor.netlify.app)
    - 🔍 [PSU iFound](https://psu-ifound.vercel.app)
+   - 💫 [Wordle](https://nuxt-wordles.vercel.app)
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=HaDiizz&show_icons=true&theme=radical" />
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaDiizz&theme=radical&layout=compact" />
